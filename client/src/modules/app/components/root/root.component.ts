@@ -22,7 +22,5 @@ export class RootComponent implements OnInit, OnDestroy {
         if (this.blurChangeSubscription) {
             this.blurChangeSubscription.unsubscribe();
         }
-
-        console.log('test');
     }
 }
