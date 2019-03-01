@@ -28,7 +28,7 @@ Please bring your developer devices and install the following software. [Already
 - [Git](https://git-scm.com/) (obviously)
   - Optional: Git UI tool such as TortoiseGit, Tower, SourceTree, GitKraken, …
 - [Node.js](https://nodejs.org/en/), version 10.15.1 LTS
-- [ngrok](https://ngrok.com/download) for secure & easy TCP/HTTP/HTTPS tunneling during development
+- [ngrok](https://ngrok.com/download) for secure & easy TCP/HTTP/HTTPS tunneling during development (**do not** connect an account!)
 - Editor of your choice
   - [WebStorm](https://www.jetbrains.com/webstorm/) 2018.3 (commercial, free trial)
   - [Visual Studio Code](https://code.visualstudio.com/), recent version
